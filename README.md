@@ -31,15 +31,17 @@
 <br />
 <br />
 <img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-https://cutestcoloringpages.com/cute-coloring-pages
+
 <!-- 关于我 -->
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on [cutestcoloringpages]([https://dxy.com/](https://cutestcoloringpages.com))~
+- 🔭 I’m currently working on  <a target="_blank"  rel="dofollow"  href="https://cutestcoloringpages.com">cutestcoloringpages</a>~
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share
+
+ <a target="_blank"  rel="dofollow"  href="https://cutestcoloringpages.com">A  coloring page generator</a>
 
 <a target="_blank"  rel="dofollow"  href="https://cutestcoloringpages.com/cute-coloring-pages">cute-coloring-pages</a>
 
