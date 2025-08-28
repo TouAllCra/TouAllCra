@@ -36,7 +36,7 @@
 <h2 height="200px" align="center">🎉 About Me</h2>
 <br />
 
-- 🔭 I’m currently working on  <a target="_blank"  rel="dofollow"  href="https://cutestcoloringpages.com">cutestcoloringpages</a>~
+- 🔭 I’m currently working on  <a target="_blank"  rel="dofollow"  href="https://cutestcoloringpages.com">cutestcoloringpages</a>~  <a target="_blank"  rel="dofollow"  href="https://nanobanana.life">Nano Banana</a>
 - 🏋 I'm passionate about fitness, and it pays off ~
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share
